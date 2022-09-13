@@ -1,0 +1,1 @@
+(https://colab.research.google.com/github/richherr/info5502/blob/master/001/python_001.ipynb)
